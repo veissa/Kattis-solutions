@@ -1,0 +1,10 @@
+#include <iostream>
+
+int main(){
+   std::cout <<"TIL HAMINGJU MED AFMAELID FORRITUNARKEPPNI FRAMHALDSSKOLANNA!" << std::endl;
+   return 0;
+
+}
+
+
+// This is C++
